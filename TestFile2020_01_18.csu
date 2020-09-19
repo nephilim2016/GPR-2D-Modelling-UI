@@ -1,0 +1,12 @@
+#NewModel:
+X_Range:0.500000;Z_Range:1.00000
+dx:0.005000;dz:0.005000
+dt:1.000000e-11;SimulationTime:1.000000e-08;Frequence:4.000000e+08
+SourceStart:(0.000000,0.000000);ReceierStart:(0.000000,0.000000);Step:0.005000;Scan:199
+Conductivity:1.000000e-05;DielectricConstant:4.000000;MagneticPermeability:1.000000
+
+#AddRectangle:
+Left:0.100000;Bottom:0.00000;Width:0.300000;High:0.100000
+Conductivity:1.000000e-05;DielectricConstant:81.000000;MagneticPermeability:1.000000
+
+
